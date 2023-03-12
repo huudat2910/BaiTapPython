@@ -6,3 +6,4 @@ try: #khoi lenh co the phat sinh loi
     print("Tong hai so nguyen la : ", So1+So2)
 except: # khoi lenh duoc thuc thi khi loi xay ra
     print("Vui long nhap so")
+ 
